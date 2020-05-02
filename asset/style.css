@@ -1,0 +1,57 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.button-download:hover {
+    background-color: white;
+    padding: 10px;
+    color: black;
+    border: #354DC4 solid 2px;
+    transition: ease-in 0.5ms;
+    -webkit-transition: ease-out 0.5ms;
+}
+
+.button-download {
+    background-color: #354DC4;
+    padding: 10px;
+    color: white;
+    border: #354DC4 solid 2px;
+    transition: ease-in 0.5ms;
+    -webkit-transition: ease-out 0.5ms;
+}
+
+.site-banner {
+    margin-top: 150px;
+}
+
+.site-title {
+    padding-top: 150px;
+}
+
+.portfolio {
+    margin-left: 100px;
+
+}
+
+.padding-mid {
+    padding: 20px;
+}
+
+.portfolio-h1 {
+    padding: 30px;
+}
+
+.site-title h1,
+h2,
+h3,
+h4 {
+    font-weight: 900;
+    font-size: 32px;
+}
+
+.footer-area {
+    margin-top: 50px;
+    padding: 5 0 5 0;
+    background-color: #282828;
+    color: white;
+}
